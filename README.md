@@ -1,100 +1,154 @@
+<h1 align="center">Hi 👋, I'm Isha Pal</h1>
 
-# Hi 👋, I'm Isha
+<h3 align="center">
+🚀 Computer Science Student | AI & ML Enthusiast | MERN Stack Developer
+</h3>
 
-### 🚀 Computer Science Student | AI & Machine Learning Enthusiast | MERN Stack Developer
+<p align="center">
+Building Real-World AI Applications, Full-Stack Projects & Developer Tools
+</p>
 
-I'm passionate about building intelligent applications, developer tools, and full-stack web platforms that solve real-world problems.
+<p align="center">
+🎯 GATE 2026 Aspirant | 💻 Building VibeCode | 🤖 Exploring Machine Learning
+</p>
 
-## 🌱 Currently Learning
+---
 
-* Machine Learning
-* Deep Learning
-* Data Science
-* MERN Stack Development
-* System Design & Problem Solving
+## 👩‍💻 About Me
 
-## 🛠️ Tech Stack
+- 🎓 B.Tech Computer Science Student
+- 💻 MERN Stack Developer
+- 🤖 Machine Learning Enthusiast
+- 🚀 Currently building **VibeCode (Online Code Editor)**
+- 🌱 Learning Deep Learning & System Design
+- 🎯 Preparing for **GATE 2027** And Qualified **GATE 2026**
+- ⚡ Love building projects that solve real-world problems
 
-### Languages
+---
 
-* Python
-* Java
-* JavaScript
-* SQL
+# 🛠️ Tech Stack
 
-### Machine Learning & Data Science
+## Languages
 
-* NumPy
-* Pandas
-* Scikit-Learn
-* Matplotlib
-* Streamlit
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Full-Stack Development
+---
 
-* MongoDB
-* Express.js
-* React.js
-* Node.js
-* Git & GitHub
+## Frontend
 
-## 🚀 Featured Projects
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### 💻 Online Code Editor (Currently Building)
+---
 
-* Full-stack code editor inspired by modern online IDEs
-* Real-time code editing experience
-* Multi-language code execution support
-* Authentication and project management
-* Built using MERN Stack and modern web technologies
+## Backend
 
-### 🤖 AI Resume Screening System
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
-* Resume-job matching using NLP
-* TF-IDF Vectorization
-* Cosine Similarity
-* Streamlit Web Application
+---
 
-### 🎬 Movie Recommendation System
+## Database
 
-* Content-Based Recommendation Engine
-* CountVectorizer
-* Cosine Similarity
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-### 🌸 Iris Flower Classification
+---
 
-* KNN Classification
-* Machine Learning Model Evaluation
+## Machine Learning
 
-### 📊 Student Performance Predictor
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
-* Linear Regression
-* Data Visualization
-* Predictive Analytics
+---
 
-## 🎯 Current Goals
+## Tools
 
-* Preparing for Amazon ML Summer School
-* Building production-ready AI and Full-Stack projects
-* Strengthening Machine Learning Fundamentals
-* Becoming a skilled Software Engineer
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-## 📫 Connect With Me
+---
 
-Feel free to explore my repositories and projects.
-Thanks for visiting my profile! ⭐
+# 🚀 Featured Projects
 
-<!--
-**Isha4002/Isha4002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 VibeCode (Currently Building)
 
-Here are some ideas to get you started:
+- Online Code Editor
+- MERN Stack
+- Authentication & Project Management
+- Multi-language Code Execution
+- Modern IDE Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤖 AI Resume Screening System
+
+- NLP Based Resume Analysis
+- TF-IDF Vectorization
+- Cosine Similarity
+- Streamlit Web Application
+- Skill Gap Analysis
+
+---
+
+## 🎬 Movie Recommendation System
+
+- Content-Based Recommendation Engine
+- CountVectorizer
+- Cosine Similarity
+- Personalized Recommendations
+
+---
+
+## 🌸 Iris Flower Classification
+
+- KNN Classification
+- Data Visualization
+- Machine Learning Model Evaluation
+
+---
+
+## 📊 Student Performance Predictor
+
+- Linear Regression
+- Score Prediction
+- Data Visualization with Matplotlib
+
+---
+
+# 🎯 Current Goals
+
+- Crack Amazon ML Summer School
+- Prepare for GATE 2026
+- Build Production-Level MERN Applications
+- Learn Deep Learning
+- Contribute to Open Source
+
+---
+
+# 📌 Highlights
+
+- 💻 Building Full-Stack Applications
+- 🤖 Exploring Machine Learning & AI
+- 🚀 Creating Real-World Projects
+- 📚 Continuous Learning Mindset
+
+---
+
+# 📈 GitHub Stats
+
+![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isha4002&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha4002&layout=compact&theme=tokyonight)
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
