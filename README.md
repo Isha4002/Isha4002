@@ -21,7 +21,7 @@ Building AI Applications, Full Stack Products & Developer Tools
 <li>💻 MERN Stack Developer</li>
 <li>🤖 Machine Learning Enthusiast</li>
 <li>🚀 Currently Building <b>VibeCode (Online Code Editor)</b></li>
-<li>📚 Preparing for <b>GATE 2026</b></li>
+<li>📚 Preparing for <b>GATE 2027</b></li>
 <li>🌱 Exploring AI, Full Stack Development & System Design</li>
 </ul>
 
