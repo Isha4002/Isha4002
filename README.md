@@ -9,9 +9,7 @@ Passionate about building secure web applications, intelligent ML solutions, and
 </p>
 
 <p align="center">
-
 🎓 B.Tech CSE • 💻 Full Stack Developer • 🤖 AI/ML Learner • 🚀 GATE 2027 Aspirant
-
 </p>
 
 ---
@@ -20,11 +18,11 @@ Passionate about building secure web applications, intelligent ML solutions, and
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Full Stack MERN Developer
-- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 📚 Preparing for **GATE 2027**
-- 🌱 Currently learning **System Design, Backend Architecture & Deep Learning**
-- 🚀 Passionate about building scalable web applications
-- 💡 Always exploring new technologies and solving DSA problems
+- 🌱 Learning **System Design, Backend Development & AI**
+- 🚀 Interested in building scalable and secure web applications
+- 💡 Enjoy solving DSA problems and exploring new technologies
 
 ---
 
@@ -96,13 +94,13 @@ Passionate about building secure web applications, intelligent ML solutions, and
 
 <p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
 </p>
 
@@ -112,58 +110,42 @@ Passionate about building secure web applications, intelligent ML solutions, and
 
 ## 🔐 Full Stack Authentication System
 
-- JWT Authentication
-- Refresh Token Authentication
-- MERN Stack
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Refresh Tokens
+
+### Features
+
+- Secure User Authentication
+- JWT Access & Refresh Token Authentication
 - Protected Routes
 - Profile Management
-- Secure Password Hashing
-- Modern Dashboard
+- Change Password
+- REST APIs
+- Responsive Dashboard
+- Password Hashing using bcrypt
 
 ---
 
-## 🤖 AI Resume Screening System
+## 🚗 Driver Drowsiness Detection System
 
-- Resume Analysis using NLP
-- TF-IDF Vectorization
-- Cosine Similarity
-- Skill Gap Detection
-- Streamlit Interface
+**Tech Stack:** Python, OpenCV, MediaPipe FaceMesh, Flask, React.js
 
----
+### Features
 
-## 🎬 Movie Recommendation System
-
-- Content-Based Recommendation
-- Cosine Similarity
-- Personalized Movie Suggestions
-
----
-
-## 📊 Student Performance Predictor
-
-- Machine Learning Regression Model
-- Data Analysis
-- Performance Prediction
-- Interactive Visualization
-
----
-
-## 🌸 Iris Flower Classification
-
-- KNN Classification
-- Data Visualization
-- Model Evaluation
-- Scikit-Learn
+- Real-time Eye Blink Detection
+- Yawning Detection
+- Face Landmark Tracking
+- Driver Fatigue Monitoring
+- Audio Alert System
+- Live Webcam Processing
+- Flask REST API Integration
 
 ---
 
 # 🎯 Current Focus
 
 - 🚀 Full Stack Development
-- 🤖 Machine Learning
+- 🤖 Artificial Intelligence & Machine Learning
 - 📚 Data Structures & Algorithms
-- ⚙ Backend Development
 - 🏗 System Design
 - 📖 GATE 2027 Preparation
 
@@ -171,13 +153,13 @@ Passionate about building secure web applications, intelligent ML solutions, and
 
 # 🏆 Highlights
 
-- ✅ MERN Stack Projects
+- ✅ MERN Stack Development
 - ✅ Machine Learning Projects
 - ✅ REST API Development
 - ✅ JWT Authentication
 - ✅ MongoDB Database Design
+- ✅ Open Source Contributions
 - ✅ GATE 2026 Qualified
-- ✅ Open Source Contributor
 
 ---
 
@@ -191,8 +173,6 @@ Passionate about building secure web applications, intelligent ML solutions, and
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isha4002&theme=tokyonight"/>
@@ -203,20 +183,14 @@ Passionate about building secure web applications, intelligent ML solutions, and
 
 # 🌐 Connect With Me
 
-<p>
-
 📧 **Email:** ishapal2004@gmail.com
 
 💻 **GitHub:** https://github.com/Isha4002
 
-🔗 **LinkedIn:** *(Add your LinkedIn Profile Link)*
-
-</p>
+🔗 **LinkedIn:** *(Add your LinkedIn Profile URL)*
 
 ---
 
 <h3 align="center">
-
-⭐ Thank you for visiting my profile!
-
+⭐ Thanks for visiting my profile!
 </h3>
