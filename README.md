@@ -187,7 +187,7 @@ Passionate about building secure web applications, intelligent ML solutions, and
 
 💻 **GitHub:** https://github.com/Isha4002
 
-🔗 **LinkedIn:** *(Add your LinkedIn Profile URL)*
+🔗 **LinkedIn:** https://www.linkedin.com/in/isha-pal-76724a2a4/
 
 ---
 
