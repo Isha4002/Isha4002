@@ -1,147 +1,222 @@
 <h1 align="center">Hi 👋, I'm Isha Pal</h1>
 
 <h3 align="center">
-🚀 Computer Science Student | AI & ML Enthusiast | MERN Stack Developer
+Computer Science Student • MERN Stack Developer • AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-Building AI Applications, Full Stack Products & Developer Tools
+Passionate about building secure web applications, intelligent ML solutions, and solving real-world problems through technology.
 </p>
 
 <p align="center">
-🎯 GATE 2027 Aspirant • 💻 Building VibeCode • 🤖 Learning ML & AI
+
+🎓 B.Tech CSE • 💻 Full Stack Developer • 🤖 AI/ML Learner • 🚀 GATE 2027 Aspirant
+
 </p>
 
-<hr>
+---
 
-<h2>👩‍💻 About Me</h2>
+# 👩‍💻 About Me
 
-<ul>
-<li>🎓 B.Tech Computer Science Student</li>
-<li>💻 MERN Stack Developer</li>
-<li>🤖 Machine Learning Enthusiast</li>
-<li>🚀 Currently Building <b>VibeCode (Online Code Editor)</b></li>
-<li>📚 Preparing for <b>GATE 2027</b></li>
-<li>🌱 Exploring AI, Full Stack Development & System Design</li>
-</ul>
+- 🎓 B.Tech Computer Science Student
+- 💻 Full Stack MERN Developer
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📚 Preparing for **GATE 2027**
+- 🌱 Currently learning **System Design, Backend Architecture & Deep Learning**
+- 🚀 Passionate about building scalable web applications
+- 💡 Always exploring new technologies and solving DSA problems
 
-<hr>
+---
 
-<h2>🛠️ Tech Stack</h2>
+# 🛠 Tech Stack
 
-<h3>Languages</h3>
+## 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
-<h3>Frontend</h3>
+---
+
+## 🎨 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 </p>
 
-<h3>Backend</h3>
+---
+
+## ⚙ Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
 </p>
 
-<h3>Database</h3>
+---
+
+## 🗄 Database
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+
 </p>
 
-<h3>Machine Learning</h3>
+---
+
+## 🤖 Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
 </p>
 
-<hr>
+---
 
-<h2>🚀 Featured Projects</h2>
+# 🚀 Featured Projects
 
-<h3>💻 VibeCode (Currently Building)</h3>
+## 🔐 Full Stack Authentication System
 
-<ul>
-<li>Online Code Editor</li>
-<li>MERN Stack Architecture</li>
-<li>Authentication & Project Management</li>
-<li>Multi-language Code Execution</li>
-<li>Modern IDE Experience</li>
-</ul>
+- JWT Authentication
+- Refresh Token Authentication
+- MERN Stack
+- Protected Routes
+- Profile Management
+- Secure Password Hashing
+- Modern Dashboard
 
-<h3>🤖 AI Resume Screening System</h3>
+---
 
-<ul>
-<li>NLP Based Resume Analysis</li>
-<li>TF-IDF Vectorization</li>
-<li>Cosine Similarity</li>
-<li>Streamlit Web Application</li>
-<li>Skill Gap Detection</li>
-</ul>
+## 🤖 AI Resume Screening System
 
-<h3>🎬 Movie Recommendation System</h3>
+- Resume Analysis using NLP
+- TF-IDF Vectorization
+- Cosine Similarity
+- Skill Gap Detection
+- Streamlit Interface
 
-<ul>
-<li>Content Based Recommendation Engine</li>
-<li>Cosine Similarity</li>
-<li>Movie Recommendation Logic</li>
-</ul>
+---
 
-<h3>🌸 Iris Flower Classification</h3>
+## 🎬 Movie Recommendation System
 
-<ul>
-<li>KNN Classification</li>
-<li>Data Visualization</li>
-<li>Model Evaluation</li>
-</ul>
+- Content-Based Recommendation
+- Cosine Similarity
+- Personalized Movie Suggestions
 
-<h3>📊 Student Performance Predictor</h3>
+---
 
-<ul>
-<li>Linear Regression</li>
-<li>Score Prediction</li>
-<li>Matplotlib Visualization</li>
-</ul>
+## 📊 Student Performance Predictor
 
-<hr>
+- Machine Learning Regression Model
+- Data Analysis
+- Performance Prediction
+- Interactive Visualization
 
-<h2>🎯 Current Goals</h2>
+---
 
-<ul>
-<li>Amazon ML Summer School</li>
-<li>GATE 2027 Preparation</li>
-<li>Deep Learning Fundamentals</li>
-<li>Production-Level MERN Applications</li>
-<li>Open Source Contributions</li>
-</ul>
+## 🌸 Iris Flower Classification
 
-<hr>
+- KNN Classification
+- Data Visualization
+- Model Evaluation
+- Scikit-Learn
 
-<h2>📌 Highlights</h2>
+---
 
-<ul>
-<li>🚀 Building Real-World Projects</li>
-<li>💻 Full Stack Development</li>
-<li>🤖 Exploring AI & Machine Learning</li>
-<li>📚 Continuous Learning Mindset</li>
-<li>🎯 GATE 2026 Qualified. </li>
-</ul>
+# 🎯 Current Focus
 
-<hr>
+- 🚀 Full Stack Development
+- 🤖 Machine Learning
+- 📚 Data Structures & Algorithms
+- ⚙ Backend Development
+- 🏗 System Design
+- 📖 GATE 2027 Preparation
+
+---
+
+# 🏆 Highlights
+
+- ✅ MERN Stack Projects
+- ✅ Machine Learning Projects
+- ✅ REST API Development
+- ✅ JWT Authentication
+- ✅ MongoDB Database Design
+- ✅ GATE 2026 Qualified
+- ✅ Open Source Contributor
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Isha4002&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha4002&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isha4002&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+📧 **Email:** ishapal2004@gmail.com
+
+💻 **GitHub:** https://github.com/Isha4002
+
+🔗 **LinkedIn:** *(Add your LinkedIn Profile Link)*
+
+</p>
+
+---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile!
+
+⭐ Thank you for visiting my profile!
+
 </h3>
